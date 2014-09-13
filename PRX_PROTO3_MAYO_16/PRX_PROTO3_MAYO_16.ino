@@ -10,6 +10,8 @@
  * CE -> 8
  * CSN -> 7
  */
+ 
+ // modificacion de archivos bla bla
 
 #include <SPI.h>
 #include <Mirf.h>
